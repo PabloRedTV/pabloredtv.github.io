@@ -2490,7 +2490,7 @@ var staticRenderFns = [
     var _c = _vm._self._c || _h
     return _c("div", { staticClass: "lnk-c-panel__header" }, [
       _c("h3", { attrs: { id: "lnk-c-takeover1__title" } }, [
-        _vm._v("Privacy notice")
+        _vm._v("Privacy Notice")
       ])
     ])
   },
@@ -2499,8 +2499,8 @@ var staticRenderFns = [
     var _h = _vm.$createElement
     var _c = _vm._self._c || _h
     return _c("p", [
-      _c("strong", [_vm._v("Linkfire")]),
-      _vm._v(" sets cookies to track anonymised data only.")
+      _c("strong"PabloRedTV, [_vm._v("")]),
+      _vm._v("This site does not set cookies and does not store or track your data.")
     ])
   }
 ]
